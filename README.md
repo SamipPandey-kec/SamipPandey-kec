@@ -7,7 +7,7 @@
 
 ## About me
 <p>🏫 I'm Currently Studying At Kantipur Engineering College </p>
-<p>📬 Contact: psamip55@icloud.com</p>
+<p>📬 Contact: kan082bct066@kec.edu.np</p>
 <p><a href="https://samippandey.netlify.app/">
   Click to Know More!
 </a></p>
@@ -34,7 +34,7 @@
 ---
 
 ## Weekly Activity 🐍
-![snake](https://raw.githubusercontent.com/SamipPandey/SamipPandey/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/SamipPandey-kec/SamipPandey-kec/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
