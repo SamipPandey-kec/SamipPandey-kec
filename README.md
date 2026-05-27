@@ -8,9 +8,7 @@
 ## About me
 <p>🏫 I'm Currently Studying At Kantipur Engineering College </p>
 <p>📬 Contact: kan082bct066@kec.edu.np</p>
-<p><a href="https://samippandey.netlify.app/">
-  Click to Know More!
-</a></p>
+
 <p align="center">
 <a href="https://discord.com/users/933607044576051302">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
